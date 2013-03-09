@@ -59,6 +59,8 @@ func main() {
 
 ```
 
+Input **localhost:5000/hello?key=1234** in your browser and refresh it at different time to see what happen.
+
 
 ## License
 
